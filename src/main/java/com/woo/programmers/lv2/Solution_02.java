@@ -2,6 +2,9 @@ package com.woo.programmers.lv2;
 
 import java.util.Stack;
 
+/**
+ * 올바른 괄호
+ */
 public class Solution_02 {
     public boolean solution(String s) {
         try {
